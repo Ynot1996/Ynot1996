@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Tony Kang
+- 👀 I’m interested in mastering data and technology, especially database management, data analysis, and software engineering.
+- 🌱 I’m currently learning SQL from scratch, as well as improving my skills in Python and cloud computing (AWS).
+- 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, or anything related to backend development.
+- 📫 How to reach me: Feel free to email me at wen114teng@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tonykang/).
+- ⚡ Fun fact: I love exploring new technologies while sipping on bubble tea, and I have experience making the perfect cup during my working holiday in Canada!
