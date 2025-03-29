@@ -8,4 +8,3 @@
 <br>
 📫 How to reach me: Feel free to email me at wen114teng@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tony-kang-a353271bb/).
 <br>
-⚡ Fun fact: I love exploring new technologies while sipping on bubble tea, and I have experience making the perfect cup during my working holiday in Canada!
