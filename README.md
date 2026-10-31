@@ -1,4 +1,4 @@
-# Hi, I'm Tony (Wen-Teng) Kang 👋
+# Hi, I'm Tony Kang 👋
 
 I am an **MSc Computer Science (Conversion) student at the University of Birmingham**, transitioning from an **Economics** background into Software Engineering and AI.
 
