@@ -1,5 +1,3 @@
-# Hi, I'm Tony Kang
-
 Software engineer working mainly in Python, building AI and data tools for financial services.
 Before tech I worked in banking and audit (Citibank, Bank of East Asia, Deloitte).
 MSc Computer Science, University of Birmingham (2026). Based in London.
